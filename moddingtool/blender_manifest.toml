@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+id = "moddingtool"
+version = "0.1.0"
+name = "ModdingTool"
+tagline = "Modding utilities for gta 5 modding"
+maintainer = "ook3d"
+type = "add-on"
+
+blender_version_min = "5.0.0"
+
+license = ["SPDX:MIT"]
+
+tags = ["Mesh", "Modeling"]
+
+# Native binaries shipped with the extension.
+# When packaging, place compiled libs under blender_addon/bin/ so they
+# are picked up alongside the Python sources.
